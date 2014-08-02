@@ -43,7 +43,7 @@ int main(void)
                     consultarpais(arvgenealogica);
                  break;
                  
-                 case 4:
+                 /*case 4:
                     system("cls");
                     imprimepilha(processos);
                     getch();
@@ -85,8 +85,8 @@ int main(void)
                  
                  case 10:
                     system("cls");
-                    printf("Digite o nome da pessoa para listagem dos tios-avos.");
-                    break;
+                    printf("Digite o nome da pessoa para listagem dos tios-avos.")
+                    */
 
                  case 11:
                     system("cls");
